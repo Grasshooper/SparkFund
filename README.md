@@ -11,6 +11,8 @@ the ones 'where most investors are investing'.
 
 
 Analysis
+
+
 We are using three types of analysis here:
 Investment type analysis
 : Comparing the typical investment amounts in the venture, seed, angel, private equity etc
@@ -20,6 +22,8 @@ Sector analysis
 : Understanding the distribution of investments across the eight main sectors.
 
 Constraints
+
+
 Spark Funds has two minor constraints for investments
 •
 Firstly , invest between 5 to 15 million USD per round of investment
